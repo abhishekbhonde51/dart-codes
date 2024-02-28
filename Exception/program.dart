@@ -2,7 +2,7 @@ import "dart:io";
 void main(){
 
 	print("Start main");
-	print("Enter value");
+	print("Enter val");
 	try{
 	int y = int.parse(stdin.readLineSync()!);
 	}catch(ex){
